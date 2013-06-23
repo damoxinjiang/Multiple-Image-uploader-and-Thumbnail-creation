@@ -1,0 +1,59 @@
+.clear{
+	clear:both;
+}
+
+.img_con{
+	border: 1px dotted grey;
+    float: left;
+    padding: 5px;
+    margin:5px;
+}
+
+.main_img{
+	width:250px;
+}
+
+.img_con{
+	margin:20px;
+}
+
+.up_con{
+	margin:20px;
+	border-top:1px solid grey;
+	clear:both;
+}
+
+.header{
+	background: none repeat scroll 0 0 #E6E4CB;
+    height: auto;
+    margin-top: -21px;
+    padding: 4px;
+    width: auto;
+}
+
+.wrapper{
+	margin:40px;
+}
+
+.up_con>h4{
+	color:red;
+	text-transform:uppercase;
+}
+
+.al_img{
+	float:left;
+	margin-left:10px;
+	margin-bottom:5px;
+}
+
+.al_img>img{
+	width:150px;
+	border:1px dotted grey;
+	padding:2px;
+}
+
+.pro_con>h4{
+	color:red;
+	text-transform:uppercase;
+}
+
